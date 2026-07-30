@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.jpg" alt="FCA Corporativo — Enterprise Architecture · Governance" width="100%" />
+</p>
+
 # Framework Corporativo de Arquitetura de Software (FCA)
 
 **Plataforma evolutiva para times internos e fornecedores**
